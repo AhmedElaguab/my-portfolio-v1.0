@@ -9,6 +9,9 @@ module.exports = {
       screens: {
         xs: '475px',
       },
+      maxWidth: {
+        96: '24rem',
+      },
     },
   },
   variants: {
