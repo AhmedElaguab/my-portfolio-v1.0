@@ -2,6 +2,7 @@ import { useState } from 'react';
 
 import { HiMenu, HiX } from 'react-icons/hi';
 import { Overlay as OverlayComponent } from './Overlay';
+import { Navbar } from './Navbar';
 
 export const Header = () => {
   const [isMenuActive, setIsMenuActive] = useState(false);
@@ -18,13 +19,14 @@ export const Header = () => {
           <div>
             <MenuIcon className="text-3xl mr-3" onClick={handleMenuToggle} />
           </div>
-          {Overlay}
           <div>
             <a className="text-2xl font-medium" href="/">
               <span>a|e </span>
               <span>ahmed elaguab</span>
             </a>
           </div>
+          {Overlay}
+          <Navbar isMenuActive={isMenuActive} />
         </div>
       </div>
     </header>
