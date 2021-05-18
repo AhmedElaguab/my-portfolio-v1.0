@@ -10,7 +10,7 @@ export const Header = () => {
   const handleMenuToggle = () => setIsMenuActive((prevState) => !prevState);
 
   const MenuIcon = isMenuActive ? HiX : HiMenu;
-  let Overlay = isMenuActive && <OverlayComponent />;
+  let Overlay = isMenuActive && <OverlayComponent onClick={handleMenuToggle} />;
 
   return (
     <header className="bg-white">
