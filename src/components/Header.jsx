@@ -19,7 +19,7 @@ export const Header = () => {
         <div className="h-16 py-3 px-4 flex items-center border-b border-gray-200">
           <div>
             <MenuIcon
-              className="text-3xl mr-3 cursor-pointer"
+              className="text-3xl mr-3 cursor-pointer lg:hidden"
               onClick={handleMenuToggle}
             />
           </div>
