@@ -24,14 +24,14 @@ export const Header = () => {
             />
           </div>
           <div>
-            <a className="text-2xl font-medium" href="/">
+            <a className="text-2xl font-medium lg:mr-10" href="/">
               <span>a|e </span>
               <span>ahmed elaguab</span>
             </a>
           </div>
           {Overlay}
           <Navbar isMenuActive={isMenuActive}>
-            <ul>
+            <ul className="p-4 lg:p-2 lg:flex">
               <NavbarLink
                 label="about"
                 linkUrl="/about"
