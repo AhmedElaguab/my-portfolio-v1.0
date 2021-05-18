@@ -43,8 +43,8 @@ export const Header = () => {
                 onClick={handleMenuToggle}
               />
               <NavbarLink
-                label="projects"
-                linkUrl="/projects"
+                label="portfolio"
+                linkUrl="/portfolio"
                 onClick={handleMenuToggle}
               />
               <NavbarLink
