@@ -29,7 +29,30 @@ export const Header = () => {
             </a>
           </div>
           {Overlay}
-          <Navbar isMenuActive={isMenuActive} />
+          <Navbar isMenuActive={isMenuActive}>
+            <ul>
+              <li>
+                <a className="" href="/">
+                  about
+                </a>
+              </li>
+              <li>
+                <a className="" href="/">
+                  skills
+                </a>
+              </li>
+              <li>
+                <a className="" href="/">
+                  projects
+                </a>
+              </li>
+              <li>
+                <a className="" href="/">
+                  contact me
+                </a>
+              </li>
+            </ul>
+          </Navbar>
         </div>
       </div>
     </header>
