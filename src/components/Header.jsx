@@ -4,6 +4,7 @@ import { HiMenu, HiX } from 'react-icons/hi';
 import { Overlay as OverlayComponent } from './Overlay';
 import { Navbar } from './Navbar';
 import { NavbarLink } from './NavbarLink';
+import { NavbarButton } from './NavbarButton';
 
 export const Header = () => {
   const [isMenuActive, setIsMenuActive] = useState(false);
@@ -31,7 +32,7 @@ export const Header = () => {
           </div>
           {Overlay}
           <Navbar isMenuActive={isMenuActive}>
-            <ul className="p-4 lg:p-2 lg:flex">
+            <ul className="p-4 lg:p-2 lg:flex items-center flex-grow">
               <NavbarLink
                 label="about"
                 linkUrl="/about"
@@ -53,6 +54,7 @@ export const Header = () => {
                 onClick={handleMenuToggle}
               />
             </ul>
+            <NavbarButton linkUrl="/resume" label="download resume" />
           </Navbar>
         </div>
       </div>
