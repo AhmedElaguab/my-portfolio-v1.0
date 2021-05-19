@@ -15,7 +15,7 @@ export const Header = () => {
   let Overlay = isMenuActive && <OverlayComponent onClick={handleMenuToggle} />;
 
   return (
-    <header className="bg-white">
+    <header className="bg-white fixed top-0 left-0 right-0 w-full">
       <div className="container">
         <div className="h-16 py-3 px-4 lg:px-1 flex items-center border-b border-gray-200">
           <div>
