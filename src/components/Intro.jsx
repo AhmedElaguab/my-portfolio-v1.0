@@ -10,7 +10,7 @@ export const Intro = () => {
             My name is Ahmed Elaguab, <br className="hidden sm:block" />
             and I'm a Frontend Developer.
           </h1>
-          <div className="flex justify-end md:flex-col md:justify-center mt-14 md:mt-0">
+          <div className="hidden md:flex justify-end md:flex-col md:justify-center mt-14 md:mt-0">
             <IntroImage className="w-48 h-48 xl:w-72 " />
           </div>
         </div>
