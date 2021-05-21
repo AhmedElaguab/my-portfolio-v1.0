@@ -1,6 +1,7 @@
 import { useState } from 'react';
 
 import { HiMenu, HiX } from 'react-icons/hi';
+import { Logo } from './Logo';
 import { Overlay as OverlayComponent } from './Overlay';
 import { Navbar } from './Navbar';
 import { NavbarLink } from './NavbarLink';
@@ -24,12 +25,7 @@ export const Header = () => {
               onClick={handleMenuToggle}
             />
           </div>
-          <div>
-            <a className="text-2xl font-medium lg:mr-10" href="/">
-              <span>a|e </span>
-              <span>ahmed elaguab</span>
-            </a>
-          </div>
+          <Logo />
           {Overlay}
           <Navbar isMenuActive={isMenuActive}>
             <ul className="p-4 lg:p-2 lg:flex items-center flex-grow">
