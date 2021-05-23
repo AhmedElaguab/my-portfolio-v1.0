@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 2dcda1fd01417b53a8ef8975de4ef3707c7e7c21 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621453144 +0100	branch: Created from HEAD
+2dcda1fd01417b53a8ef8975de4ef3707c7e7c21 fc301ab36669c907216fd9bb5f12514b89292c52 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621454847 +0100	commit: Add intro component
+fc301ab36669c907216fd9bb5f12514b89292c52 42094c9e084590e3216e898be1d1e841cb125057 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621616027 +0100	commit: Hide intro image on small screens

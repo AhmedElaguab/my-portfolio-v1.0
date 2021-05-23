@@ -1,0 +1,91 @@
+0000000000000000000000000000000000000000 b6cb0bd100bc713cdc66de3edf60b7bfa248a0b2 Ahmed Elaguab <elaguabahmed97@gmail.com> 1620876594 +0100	commit (initial): Initialize project using Create React App
+b6cb0bd100bc713cdc66de3edf60b7bfa248a0b2 c472a7c04b6da902192e1a25546c44f58aefc8b6 Ahmed Elaguab <elaguabahmed97@gmail.com> 1620877162 +0100	commit (amend): Initialize project using Create React App
+c472a7c04b6da902192e1a25546c44f58aefc8b6 4b5e3bfb725d520c89cc6af74ee9c172eb94cf81 Ahmed Elaguab <elaguabahmed97@gmail.com> 1620877366 +0100	commit (amend): Initialize project using Create React App
+4b5e3bfb725d520c89cc6af74ee9c172eb94cf81 4b5e3bfb725d520c89cc6af74ee9c172eb94cf81 Ahmed Elaguab <elaguabahmed97@gmail.com> 1620878511 +0100	checkout: moving from master to header
+4b5e3bfb725d520c89cc6af74ee9c172eb94cf81 7b129491494d2e9f08fde0748ff5ff44adf2f867 Ahmed Elaguab <elaguabahmed97@gmail.com> 1620879190 +0100	commit: Add brand
+7b129491494d2e9f08fde0748ff5ff44adf2f867 ac5b1af520c3f452d868bb99e75c600e3dc5ed5e Ahmed Elaguab <elaguabahmed97@gmail.com> 1620879259 +0100	commit (amend): Add brand
+ac5b1af520c3f452d868bb99e75c600e3dc5ed5e 7df94451881851d838718145df8591a90eae947a Ahmed Elaguab <elaguabahmed97@gmail.com> 1620879649 +0100	commit: Add hamburger menu
+7df94451881851d838718145df8591a90eae947a 2dececb737b1b3f520b8d9ba99ef63d6ab8dd48d Ahmed Elaguab <elaguabahmed97@gmail.com> 1620879658 +0100	commit (amend): Add hamburger menu icon
+2dececb737b1b3f520b8d9ba99ef63d6ab8dd48d acaa6b88eea49b6add8c2a7d926c252fc4328cf0 Ahmed Elaguab <elaguabahmed97@gmail.com> 1620879790 +0100	commit: Group header content in a component
+acaa6b88eea49b6add8c2a7d926c252fc4328cf0 24ce3363a79f7f4248c5d5a67521b55098a1c6ae Ahmed Elaguab <elaguabahmed97@gmail.com> 1620879806 +0100	commit (amend): Group header content in a component
+24ce3363a79f7f4248c5d5a67521b55098a1c6ae 44568c347b94a1bbb0e6478136c6789aee79ba88 Ahmed Elaguab <elaguabahmed97@gmail.com> 1620900628 +0100	commit: Add header menu functionality
+44568c347b94a1bbb0e6478136c6789aee79ba88 2d8a1e3a694153e4216a4f31f14d43a0daf5096d Ahmed Elaguab <elaguabahmed97@gmail.com> 1620902911 +0100	commit: Update menu icon
+2d8a1e3a694153e4216a4f31f14d43a0daf5096d 8cdbc9e4a0fafa3ea4a3502d0dd4d9275f22bb82 Ahmed Elaguab <elaguabahmed97@gmail.com> 1620903247 +0100	commit: Split menu icon into its component
+8cdbc9e4a0fafa3ea4a3502d0dd4d9275f22bb82 e89fc0372b5012dbe309182fa13f28ae03cf5fa5 Ahmed Elaguab <elaguabahmed97@gmail.com> 1620903315 +0100	commit: Split brand into its component
+e89fc0372b5012dbe309182fa13f28ae03cf5fa5 5809956680097397ebd7ec4c8e018ce37154ab06 Ahmed Elaguab <elaguabahmed97@gmail.com> 1620903493 +0100	commit: Split overlay into its component
+5809956680097397ebd7ec4c8e018ce37154ab06 f2955e9117d4953644154990ba45629a79b1588f Ahmed Elaguab <elaguabahmed97@gmail.com> 1620903584 +0100	commit: Split navbar into its component
+f2955e9117d4953644154990ba45629a79b1588f 6d5049ae4b325e8411a822feb10da7be1f93471e Ahmed Elaguab <elaguabahmed97@gmail.com> 1620903899 +0100	commit: Split navbar link into its component
+6d5049ae4b325e8411a822feb10da7be1f93471e a8fa352a9744a14bf9395adbfa7fdad8b5bb2d43 Ahmed Elaguab <elaguabahmed97@gmail.com> 1620903973 +0100	commit: Split navbar button into its component
+a8fa352a9744a14bf9395adbfa7fdad8b5bb2d43 11dee332a7de0c54f3d8e204f5e71999269b3a83 Ahmed Elaguab <elaguabahmed97@gmail.com> 1620922067 +0100	commit: Update navbar link hover styles
+11dee332a7de0c54f3d8e204f5e71999269b3a83 11dee332a7de0c54f3d8e204f5e71999269b3a83 Ahmed Elaguab <elaguabahmed97@gmail.com> 1620922280 +0100	reset: moving to HEAD
+11dee332a7de0c54f3d8e204f5e71999269b3a83 dab9a6f3dc96d8c794f351b13f661e48ce8bf6dd Ahmed Elaguab <elaguabahmed97@gmail.com> 1620924221 +0100	commit: Add header responsive styles
+dab9a6f3dc96d8c794f351b13f661e48ce8bf6dd 54bace20fdb06c9eda96ff9b26b1e65704434394 Ahmed Elaguab <elaguabahmed97@gmail.com> 1620924303 +0100	commit: Add header container
+54bace20fdb06c9eda96ff9b26b1e65704434394 baccb51eb603ec496412c5e5567e66b8309d4703 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621004590 +0100	commit: Edit navbar links
+baccb51eb603ec496412c5e5567e66b8309d4703 4b5e3bfb725d520c89cc6af74ee9c172eb94cf81 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621004619 +0100	checkout: moving from header to master
+4b5e3bfb725d520c89cc6af74ee9c172eb94cf81 baccb51eb603ec496412c5e5567e66b8309d4703 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621004645 +0100	merge header: Fast-forward
+baccb51eb603ec496412c5e5567e66b8309d4703 3ab973bae11e911112994e3269a8eaaf6e9b57be Ahmed Elaguab <elaguabahmed97@gmail.com> 1621004788 +0100	commit: Edit navbar link hover background
+3ab973bae11e911112994e3269a8eaaf6e9b57be 3ab973bae11e911112994e3269a8eaaf6e9b57be Ahmed Elaguab <elaguabahmed97@gmail.com> 1621004832 +0100	checkout: moving from master to router
+3ab973bae11e911112994e3269a8eaaf6e9b57be 207f2dfc48f108209c9d9cbe3a6ba3eecebd9503 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621005020 +0100	commit: Add react router
+207f2dfc48f108209c9d9cbe3a6ba3eecebd9503 3ab973bae11e911112994e3269a8eaaf6e9b57be Ahmed Elaguab <elaguabahmed97@gmail.com> 1621005027 +0100	checkout: moving from router to master
+3ab973bae11e911112994e3269a8eaaf6e9b57be 207f2dfc48f108209c9d9cbe3a6ba3eecebd9503 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621005032 +0100	merge router: Fast-forward
+207f2dfc48f108209c9d9cbe3a6ba3eecebd9503 5d50b13a666e2eac17074f0d5b8a5dad2e9d6223 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621005383 +0100	commit: Add layout component
+5d50b13a666e2eac17074f0d5b8a5dad2e9d6223 37bd52f90e01f49546383fdecd128ea088b19224 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621005531 +0100	commit: Add home page
+37bd52f90e01f49546383fdecd128ea088b19224 d1b1b7faacb5453b67653f61dc2da82a1eec202e Ahmed Elaguab <elaguabahmed97@gmail.com> 1621005806 +0100	commit: Add other pages
+d1b1b7faacb5453b67653f61dc2da82a1eec202e 2c1affa0a5da96d6301ee2c9d454733bccf9df79 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621005942 +0100	commit: Add react router links
+2c1affa0a5da96d6301ee2c9d454733bccf9df79 3e987e173434effb1b228c6a8ca489c586e3cbd1 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621021139 +0100	commit: Hide navbar on link click
+3e987e173434effb1b228c6a8ca489c586e3cbd1 1f593dd7b5bfed1ab82801f6b4e5825256006606 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621141785 +0100	commit: Add intro component
+1f593dd7b5bfed1ab82801f6b4e5825256006606 701b2f66eab9d08e79ccba21ccd2a6e388d4d5d6 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621142666 +0100	commit: Add about page
+701b2f66eab9d08e79ccba21ccd2a6e388d4d5d6 464e220e2cc878a2eba136c9f48deec531806cf0 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621143068 +0100	commit: Add contact page
+464e220e2cc878a2eba136c9f48deec531806cf0 464e220e2cc878a2eba136c9f48deec531806cf0 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621146130 +0100	reset: moving to HEAD
+464e220e2cc878a2eba136c9f48deec531806cf0 305b364c8562f6c25d1785ee863eb713560663d3 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621147483 +0100	commit: Add skills page
+305b364c8562f6c25d1785ee863eb713560663d3 305b364c8562f6c25d1785ee863eb713560663d3 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621359124 +0100	reset: moving to HEAD
+305b364c8562f6c25d1785ee863eb713560663d3 4b5e3bfb725d520c89cc6af74ee9c172eb94cf81 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621359133 +0100	checkout: moving from master to backup
+4b5e3bfb725d520c89cc6af74ee9c172eb94cf81 4b5e3bfb725d520c89cc6af74ee9c172eb94cf81 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621359174 +0100	checkout: moving from backup to master
+4b5e3bfb725d520c89cc6af74ee9c172eb94cf81 4b5e3bfb725d520c89cc6af74ee9c172eb94cf81 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621359283 +0100	checkout: moving from master to header
+4b5e3bfb725d520c89cc6af74ee9c172eb94cf81 6d520f3ff601bcf698cafeaf5fd30e8d2aac8a6f Ahmed Elaguab <elaguabahmed97@gmail.com> 1621360182 +0100	commit: Add header brand
+6d520f3ff601bcf698cafeaf5fd30e8d2aac8a6f 709b79a7c599c8e6d6ce70e19fab185cab5b0d9a Ahmed Elaguab <elaguabahmed97@gmail.com> 1621361015 +0100	commit: Add header hamburger menu
+709b79a7c599c8e6d6ce70e19fab185cab5b0d9a 53d87809cb7dcb24cff33067bd4f211a454d9cdf Ahmed Elaguab <elaguabahmed97@gmail.com> 1621361178 +0100	commit: Fix jsx attribute typo
+53d87809cb7dcb24cff33067bd4f211a454d9cdf 182ac98d30dae5a1e8328d93adece7dc963af88b Ahmed Elaguab <elaguabahmed97@gmail.com> 1621361507 +0100	commit: Center header on large screens
+182ac98d30dae5a1e8328d93adece7dc963af88b 5c1c4597a48249e8c6c2174bd8a5f68528238098 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621362175 +0100	commit: Add overlay component
+5c1c4597a48249e8c6c2174bd8a5f68528238098 751a957db31e4634a1f99a2d84e3c8078ce5e2f4 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621363680 +0100	commit: Add navbar
+751a957db31e4634a1f99a2d84e3c8078ce5e2f4 0a4da91c5648443f9fa82a9de2be1fb2c720a5b2 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621363767 +0100	commit: Close navbar on overlay click
+0a4da91c5648443f9fa82a9de2be1fb2c720a5b2 d5d401dc5c5ab4c23c385cfe61919d39678f0d02 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621366630 +0100	commit: Fix navbar width bug
+d5d401dc5c5ab4c23c385cfe61919d39678f0d02 c55ec832b89fc7a6be6e8fc88cd437b4c951a5b2 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621366848 +0100	commit: Center container from taiwind settings
+c55ec832b89fc7a6be6e8fc88cd437b4c951a5b2 496ba4097ce85948d2312d80d72c6df5366b7ae6 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621366922 +0100	commit: Set hamburger icon pointer to cursor
+496ba4097ce85948d2312d80d72c6df5366b7ae6 7a68a84ff2f9bd8549d034afb4bc0da75b068cdf Ahmed Elaguab <elaguabahmed97@gmail.com> 1621367160 +0100	commit: Add navbar menu
+7a68a84ff2f9bd8549d034afb4bc0da75b068cdf e97434d15be338b09df91866e59e183790bb1e37 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621367482 +0100	commit: Add menu links component
+e97434d15be338b09df91866e59e183790bb1e37 e97434d15be338b09df91866e59e183790bb1e37 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621367631 +0100	reset: moving to HEAD
+e97434d15be338b09df91866e59e183790bb1e37 e97434d15be338b09df91866e59e183790bb1e37 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621367703 +0100	reset: moving to HEAD
+e97434d15be338b09df91866e59e183790bb1e37 e97434d15be338b09df91866e59e183790bb1e37 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621367709 +0100	reset: moving to HEAD
+e97434d15be338b09df91866e59e183790bb1e37 e97434d15be338b09df91866e59e183790bb1e37 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621367727 +0100	reset: moving to HEAD
+e97434d15be338b09df91866e59e183790bb1e37 ddbe72557a8b08f053ddff3ca0580e24facc3124 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621368079 +0100	commit: Make navbar spread on large screens
+ddbe72557a8b08f053ddff3ca0580e24facc3124 95e1172ecbe73ac5242622b0ddbb0b2a66394c0b Ahmed Elaguab <elaguabahmed97@gmail.com> 1621368210 +0100	commit: Make navbar links rounded
+95e1172ecbe73ac5242622b0ddbb0b2a66394c0b 6a5d2efceb96bc2dd0abd2bc8683eeb3481aa3ee Ahmed Elaguab <elaguabahmed97@gmail.com> 1621368262 +0100	commit: Change projects link to portfolio
+6a5d2efceb96bc2dd0abd2bc8683eeb3481aa3ee c9f5bb6c17b09e9c9a783364f5e2db464e8b8ff5 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621368415 +0100	commit: Hide hamburger icon and overlay on large screens
+c9f5bb6c17b09e9c9a783364f5e2db464e8b8ff5 63e827eee362385a3e8d2c66273c913a5f12774d Ahmed Elaguab <elaguabahmed97@gmail.com> 1621368537 +0100	commit: Hide navbar horizontal padding on lg screens
+63e827eee362385a3e8d2c66273c913a5f12774d 5e248256305cc3822b5f1339b9ce9c18dfce9c4e Ahmed Elaguab <elaguabahmed97@gmail.com> 1621384314 +0100	commit: Change navbar links padding
+5e248256305cc3822b5f1339b9ce9c18dfce9c4e d3615725d66236e9c30d735ed782b34a9c17720f Ahmed Elaguab <elaguabahmed97@gmail.com> 1621447607 +0100	commit: Decrease navbar button padding
+d3615725d66236e9c30d735ed782b34a9c17720f 4b5e3bfb725d520c89cc6af74ee9c172eb94cf81 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621447625 +0100	checkout: moving from header to master
+4b5e3bfb725d520c89cc6af74ee9c172eb94cf81 d3615725d66236e9c30d735ed782b34a9c17720f Ahmed Elaguab <elaguabahmed97@gmail.com> 1621447638 +0100	merge header: Fast-forward
+d3615725d66236e9c30d735ed782b34a9c17720f d3615725d66236e9c30d735ed782b34a9c17720f Ahmed Elaguab <elaguabahmed97@gmail.com> 1621447667 +0100	checkout: moving from master to intro
+d3615725d66236e9c30d735ed782b34a9c17720f d3615725d66236e9c30d735ed782b34a9c17720f Ahmed Elaguab <elaguabahmed97@gmail.com> 1621447724 +0100	checkout: moving from intro to master
+d3615725d66236e9c30d735ed782b34a9c17720f d3615725d66236e9c30d735ed782b34a9c17720f Ahmed Elaguab <elaguabahmed97@gmail.com> 1621447743 +0100	checkout: moving from master to layout
+d3615725d66236e9c30d735ed782b34a9c17720f d7e96eeba5754c83bb8cc38038dbc70e093ec4ca Ahmed Elaguab <elaguabahmed97@gmail.com> 1621451639 +0100	commit: Add layout component
+d7e96eeba5754c83bb8cc38038dbc70e093ec4ca 2dcda1fd01417b53a8ef8975de4ef3707c7e7c21 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621453117 +0100	commit: Make header fixed on top
+2dcda1fd01417b53a8ef8975de4ef3707c7e7c21 d3615725d66236e9c30d735ed782b34a9c17720f Ahmed Elaguab <elaguabahmed97@gmail.com> 1621453128 +0100	checkout: moving from layout to master
+d3615725d66236e9c30d735ed782b34a9c17720f 2dcda1fd01417b53a8ef8975de4ef3707c7e7c21 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621453133 +0100	merge layout: Fast-forward
+2dcda1fd01417b53a8ef8975de4ef3707c7e7c21 2dcda1fd01417b53a8ef8975de4ef3707c7e7c21 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621453144 +0100	checkout: moving from master to intro
+2dcda1fd01417b53a8ef8975de4ef3707c7e7c21 fc301ab36669c907216fd9bb5f12514b89292c52 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621454847 +0100	commit: Add intro component
+fc301ab36669c907216fd9bb5f12514b89292c52 42094c9e084590e3216e898be1d1e841cb125057 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621616027 +0100	commit: Hide intro image on small screens
+42094c9e084590e3216e898be1d1e841cb125057 2dcda1fd01417b53a8ef8975de4ef3707c7e7c21 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621616035 +0100	checkout: moving from intro to master
+2dcda1fd01417b53a8ef8975de4ef3707c7e7c21 42094c9e084590e3216e898be1d1e841cb125057 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621616043 +0100	merge intro: Fast-forward
+42094c9e084590e3216e898be1d1e841cb125057 42094c9e084590e3216e898be1d1e841cb125057 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621616098 +0100	checkout: moving from master to about
+42094c9e084590e3216e898be1d1e841cb125057 0275be57ff2dba36e11c23272d55b044920cdfd1 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621617054 +0100	commit: Add about section component
+0275be57ff2dba36e11c23272d55b044920cdfd1 5455fb4827646066ff1718429959bfac1afcca2b Ahmed Elaguab <elaguabahmed97@gmail.com> 1621617119 +0100	commit: Add about page
+5455fb4827646066ff1718429959bfac1afcca2b 68a00b8af019b15695a9048cfb594562a7d3517b Ahmed Elaguab <elaguabahmed97@gmail.com> 1621617208 +0100	commit: Add react-router links
+68a00b8af019b15695a9048cfb594562a7d3517b fe920c0390b8cdbf258a8f4ad0d102977da2ee5d Ahmed Elaguab <elaguabahmed97@gmail.com> 1621617314 +0100	commit: Split header brand to its component
+fe920c0390b8cdbf258a8f4ad0d102977da2ee5d acc33e881822c6beee5cdae7d1e5530eb81ded5f Ahmed Elaguab <elaguabahmed97@gmail.com> 1621617490 +0100	commit: Fix about section paragraphs width
+acc33e881822c6beee5cdae7d1e5530eb81ded5f 42094c9e084590e3216e898be1d1e841cb125057 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621617498 +0100	checkout: moving from about to master
+42094c9e084590e3216e898be1d1e841cb125057 acc33e881822c6beee5cdae7d1e5530eb81ded5f Ahmed Elaguab <elaguabahmed97@gmail.com> 1621617503 +0100	merge about: Fast-forward
+acc33e881822c6beee5cdae7d1e5530eb81ded5f 3a038cf7779ef33109be16c85e7220d06effd267 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621625983 +0100	commit: Fix about me paragraph
+                                                                                                                                                                       

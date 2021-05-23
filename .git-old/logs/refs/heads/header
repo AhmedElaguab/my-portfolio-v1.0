@@ -1,0 +1,20 @@
+0000000000000000000000000000000000000000 4b5e3bfb725d520c89cc6af74ee9c172eb94cf81 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621359283 +0100	branch: Created from HEAD
+4b5e3bfb725d520c89cc6af74ee9c172eb94cf81 6d520f3ff601bcf698cafeaf5fd30e8d2aac8a6f Ahmed Elaguab <elaguabahmed97@gmail.com> 1621360182 +0100	commit: Add header brand
+6d520f3ff601bcf698cafeaf5fd30e8d2aac8a6f 709b79a7c599c8e6d6ce70e19fab185cab5b0d9a Ahmed Elaguab <elaguabahmed97@gmail.com> 1621361015 +0100	commit: Add header hamburger menu
+709b79a7c599c8e6d6ce70e19fab185cab5b0d9a 53d87809cb7dcb24cff33067bd4f211a454d9cdf Ahmed Elaguab <elaguabahmed97@gmail.com> 1621361178 +0100	commit: Fix jsx attribute typo
+53d87809cb7dcb24cff33067bd4f211a454d9cdf 182ac98d30dae5a1e8328d93adece7dc963af88b Ahmed Elaguab <elaguabahmed97@gmail.com> 1621361507 +0100	commit: Center header on large screens
+182ac98d30dae5a1e8328d93adece7dc963af88b 5c1c4597a48249e8c6c2174bd8a5f68528238098 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621362175 +0100	commit: Add overlay component
+5c1c4597a48249e8c6c2174bd8a5f68528238098 751a957db31e4634a1f99a2d84e3c8078ce5e2f4 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621363680 +0100	commit: Add navbar
+751a957db31e4634a1f99a2d84e3c8078ce5e2f4 0a4da91c5648443f9fa82a9de2be1fb2c720a5b2 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621363767 +0100	commit: Close navbar on overlay click
+0a4da91c5648443f9fa82a9de2be1fb2c720a5b2 d5d401dc5c5ab4c23c385cfe61919d39678f0d02 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621366630 +0100	commit: Fix navbar width bug
+d5d401dc5c5ab4c23c385cfe61919d39678f0d02 c55ec832b89fc7a6be6e8fc88cd437b4c951a5b2 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621366848 +0100	commit: Center container from taiwind settings
+c55ec832b89fc7a6be6e8fc88cd437b4c951a5b2 496ba4097ce85948d2312d80d72c6df5366b7ae6 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621366922 +0100	commit: Set hamburger icon pointer to cursor
+496ba4097ce85948d2312d80d72c6df5366b7ae6 7a68a84ff2f9bd8549d034afb4bc0da75b068cdf Ahmed Elaguab <elaguabahmed97@gmail.com> 1621367160 +0100	commit: Add navbar menu
+7a68a84ff2f9bd8549d034afb4bc0da75b068cdf e97434d15be338b09df91866e59e183790bb1e37 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621367482 +0100	commit: Add menu links component
+e97434d15be338b09df91866e59e183790bb1e37 ddbe72557a8b08f053ddff3ca0580e24facc3124 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621368079 +0100	commit: Make navbar spread on large screens
+ddbe72557a8b08f053ddff3ca0580e24facc3124 95e1172ecbe73ac5242622b0ddbb0b2a66394c0b Ahmed Elaguab <elaguabahmed97@gmail.com> 1621368210 +0100	commit: Make navbar links rounded
+95e1172ecbe73ac5242622b0ddbb0b2a66394c0b 6a5d2efceb96bc2dd0abd2bc8683eeb3481aa3ee Ahmed Elaguab <elaguabahmed97@gmail.com> 1621368262 +0100	commit: Change projects link to portfolio
+6a5d2efceb96bc2dd0abd2bc8683eeb3481aa3ee c9f5bb6c17b09e9c9a783364f5e2db464e8b8ff5 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621368415 +0100	commit: Hide hamburger icon and overlay on large screens
+c9f5bb6c17b09e9c9a783364f5e2db464e8b8ff5 63e827eee362385a3e8d2c66273c913a5f12774d Ahmed Elaguab <elaguabahmed97@gmail.com> 1621368537 +0100	commit: Hide navbar horizontal padding on lg screens
+63e827eee362385a3e8d2c66273c913a5f12774d 5e248256305cc3822b5f1339b9ce9c18dfce9c4e Ahmed Elaguab <elaguabahmed97@gmail.com> 1621384314 +0100	commit: Change navbar links padding
+5e248256305cc3822b5f1339b9ce9c18dfce9c4e d3615725d66236e9c30d735ed782b34a9c17720f Ahmed Elaguab <elaguabahmed97@gmail.com> 1621447607 +0100	commit: Decrease navbar button padding
