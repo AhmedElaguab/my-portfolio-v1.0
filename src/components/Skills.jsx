@@ -4,7 +4,7 @@ export const Skills = () => {
   return (
     <section className="container">
       <div className="px-6">
-        <div className="pt-28">
+        <div className="pt-28 pb-14">
           <h2 className="text-2xl font-bold">•••Skills</h2>
           <div className="mt-10">
             {SKILLS.map(({ id, entities }) => (

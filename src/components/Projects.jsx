@@ -7,7 +7,7 @@ export const Projects = () => {
     <div className="bg-blue-50">
       <section className="container">
         <div className="px-6">
-          <div className="pt-28">
+          <div className="pt-28 pb-14">
             <div>
               <h2 className="text-2xl font-bold">•••Projects</h2>
               {PROJECTS.map(({ entities, category }) => (
