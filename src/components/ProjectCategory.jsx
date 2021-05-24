@@ -6,7 +6,7 @@ export const ProjectCategory = ({ category, projects }) => {
       <h3 className="ml-3 mt-8 text-xl uppercase text-purple-500 font-semibold">
         {category}
       </h3>
-      <div className="mt-6 lg:flex flex-wrap">
+      <div className="mt-6 lg:flex lg:justify-center flex-wrap">
         {projects.map((project) => (
           <ProjectItem project={project} key={project.name} />
         ))}
