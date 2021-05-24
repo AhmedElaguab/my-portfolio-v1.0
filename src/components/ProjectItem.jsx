@@ -1,5 +1,16 @@
 import { FaLink, FaGithubSquare } from 'react-icons/fa';
 
+const getProjectLanguageClass = (lang) => {
+  switch (lang) {
+    case 'HTML':
+      return 'bg-yellow-600';
+    case 'JavaScript':
+      return 'bg-yellow-400 text-gray-700';
+    default:
+      return 'bg-gray-600';
+  }
+};
+
 export const ProjectItem = ({ project }) => {
   return (
     <div className="lg:w-2/4 lg:px-3">
@@ -38,6 +49,14 @@ export const ProjectItem = ({ project }) => {
               >
                 <FaGithubSquare />
               </a>
+            </div>
+            <div className="flex flex-grow justify-end">
+              <span
+                className={`text-white items-center uppercase font-semibold text-xs tracking-widest py-0.5 px-1 rounded-sm
+                ${getProjectLanguageClass(project.language)}`}
+              >
+                {project.language}
+              </span>
             </div>
           </footer>
         </div>
