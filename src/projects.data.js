@@ -3,6 +3,26 @@ export const PROJECTS = [
     category: 'Frontend',
     entities: [
       {
+        name: 'Insure',
+        github: 'https://github.com/AhmedElaguab/insure-landing-page',
+        preview: 'https://ahmedelaguab.github.io/insure-landing-page/',
+        desc: 'A responsive landing page.',
+        language: 'HTML',
+        screenshot:
+          'https://raw.githubusercontent.com/AhmedElaguab/insure-landing-page/master/design/desktop-preview.jpg',
+      },
+      {
+        name: 'Social Media Dashboard',
+        github:
+          'https://github.com/AhmedElaguab/social-media-dashboard-with-theme-switcher',
+        preview:
+          'https://ahmedelaguab.github.io/social-media-dashboard-with-theme-switcher/',
+        desc: 'Social media dashboard with theme switcher',
+        language: 'HTML',
+        screenshot:
+          'https://raw.githubusercontent.com/AhmedElaguab/social-media-dashboard-with-theme-switcher/master/design/desktop-preview.jpg',
+      },
+      {
         name: 'Portfolio Website',
         github: 'https://github.com/AhmedElaguab/portfolio-site',
         preview: 'https://ahmedelaguab.github.io/portfolio-site/',
@@ -13,6 +33,7 @@ export const PROJECTS = [
       },
       {
         name: 'Arcade Game',
+
         github: 'https://github.com/AhmedElaguab/arcade-game',
         preview: 'https://ahmedelaguab.github.io/arcade-game/',
         desc: 'A Classic Arcade Game.',
