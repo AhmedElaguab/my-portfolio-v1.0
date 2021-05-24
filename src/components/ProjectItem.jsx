@@ -23,13 +23,20 @@ export const ProjectItem = ({ project }) => {
               <a
                 className="flex bg-purple-600 text-white hover:bg-purple-700 py-1 px-2 rounded"
                 href={project.preview}
+                target="_blank"
+                rel="noreferrer"
               >
                 <FaLink className="mr-2 mt-0.5" />
                 <span>Preview</span>
               </a>
             </div>
             <div className="">
-              <a className="flex items-center text-2xl" href={project.github}>
+              <a
+                className="flex items-center text-2xl"
+                href={project.github}
+                target="_blank"
+                rel="noreferrer"
+              >
                 <FaGithubSquare />
               </a>
             </div>
