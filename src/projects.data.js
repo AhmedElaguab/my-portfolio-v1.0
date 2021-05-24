@@ -8,6 +8,8 @@ export const PROJECTS = [
         preview: 'https://ahmedelaguab.github.io/portfolio-site/',
         desc: 'A full responsive portfolio website built with Bootstrap.',
         language: 'HTML',
+        screenshot:
+          'https://raw.githubusercontent.com/AhmedElaguab/portfolio-site/master/screenshot.png',
       },
       {
         name: 'Arcade Game',
@@ -15,6 +17,8 @@ export const PROJECTS = [
         preview: 'https://ahmedelaguab.github.io/arcade-game/',
         desc: 'A Classic Arcade Game.',
         language: 'JavaScript',
+        screenshot:
+          'https://raw.githubusercontent.com/AhmedElaguab/arcade-game/master/screenshots/Screenshot-1.png',
       },
       {
         name: 'Memory Game',
@@ -22,13 +26,8 @@ export const PROJECTS = [
         preview: 'https://ahmedelaguab.github.io/memory-game/',
         desc: 'A Classic Memory Game',
         language: 'JavaScript',
-      },
-      {
-        name: 'Turtle Facts Quiz App',
-        github: 'https://github.com/AhmedElaguab/turtle-facts-quiz-react-app',
-        preview: 'https://ahmedelaguab.github.io//turtle-facts-quiz-react-app/',
-        desc: 'A quiz application about turtles built with React.',
-        language: 'JavaScript',
+        screenshot:
+          'https://raw.githubusercontent.com/AhmedElaguab/memory-game/master/img/game-screenshot.png',
       },
     ],
   },

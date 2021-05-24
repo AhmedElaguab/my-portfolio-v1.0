@@ -1,5 +1,4 @@
 import { FaLink, FaGithubSquare } from 'react-icons/fa';
-import Image from '../assets/bg.png';
 
 export const ProjectItem = ({ project }) => {
   return (
@@ -8,7 +7,7 @@ export const ProjectItem = ({ project }) => {
         <header className="sm:w-4/12 md:w-5/12">
           <img
             className="flex h-44 sm:h-full w-full object-cover"
-            src={Image}
+            src={project.screenshot}
             alt={project.name}
           />
         </header>
