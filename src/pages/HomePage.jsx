@@ -9,7 +9,9 @@ export const HomePage = () => {
       <Intro />
       <About />
       <Skills />
-      <Projects />
+      <div className="bg-blue-50">
+        <Projects />
+      </div>
     </div>
   );
 };
