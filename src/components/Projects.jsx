@@ -10,8 +10,12 @@ export const Projects = () => {
           <div className="pt-28">
             <div>
               <h2 className="text-2xl font-bold">•••Projects</h2>
-              {PROJECTS.map((projectSet) => (
-                <ProjectCategory {...projectSet} />
+              {PROJECTS.map(({ entities, category }) => (
+                <ProjectCategory
+                  key={category}
+                  category={category}
+                  projects={entities}
+                />
               ))}
             </div>
           </div>

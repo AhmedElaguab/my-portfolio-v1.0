@@ -19,10 +19,42 @@ import { ReactComponent as Gulp } from './assets/skills/gulp.svg';
 import { ReactComponent as Git } from './assets/skills/git.svg';
 import { ReactComponent as Github } from './assets/skills/github.svg';
 
-const skills = [
-  [Html, Css, Js, Jquery, Sass, Pugjs, Bootstrap],
-  [React, Redux, Next, Vue, Node, Express, Mongodb, Mysql],
-  [Npm, Webpack, Gulp, Git, Github],
+const SKILLS = [
+  {
+    id: 0,
+    entities: [
+      { id: 1, Skill: Html },
+      { id: 2, Skill: Css },
+      { id: 3, Skill: Js },
+      { id: 4, Skill: Jquery },
+      { id: 5, Skill: Sass },
+      { id: 6, Skill: Pugjs },
+      { id: 7, Skill: Bootstrap },
+    ],
+  },
+  {
+    id: 1,
+    entities: [
+      { id: 1, Skill: React },
+      { id: 2, Skill: Redux },
+      { id: 3, Skill: Next },
+      { id: 4, Skill: Vue },
+      { id: 5, Skill: Node },
+      { id: 6, Skill: Express },
+      { id: 7, Skill: Mongodb },
+      { id: 8, Skill: Mysql },
+    ],
+  },
+  {
+    id: 2,
+    entities: [
+      { id: 1, Skill: Npm },
+      { id: 2, Skill: Webpack },
+      { id: 3, Skill: Gulp },
+      { id: 4, Skill: Git },
+      { id: 5, Skill: Github },
+    ],
+  },
 ];
 
-export default skills;
+export default SKILLS;

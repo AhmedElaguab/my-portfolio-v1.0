@@ -8,7 +8,7 @@ export const ProjectCategory = ({ category, projects }) => {
       </h3>
       <div className="mt-6 lg:flex flex-wrap">
         {projects.map((project) => (
-          <ProjectItem project={project} />
+          <ProjectItem project={project} key={project.name} />
         ))}
       </div>
     </div>

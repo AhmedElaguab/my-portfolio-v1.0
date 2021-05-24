@@ -1,4 +1,4 @@
-import skills from './../skills.data';
+import SKILLS from './../skills.data';
 
 export const Skills = () => {
   return (
@@ -7,10 +7,10 @@ export const Skills = () => {
         <div className="pt-28">
           <h2 className="text-2xl font-bold">•••Skills</h2>
           <div className="mt-10">
-            {skills.map((skillSet) => (
-              <div className="flex flex-wrap">
-                {skillSet.map((Skill) => (
-                  <Skill className="w-10 h-10 mb-10 mr-6" />
+            {SKILLS.map(({ id, entities }) => (
+              <div className="flex flex-wrap" key={id}>
+                {entities.map(({ Skill, id }) => (
+                  <Skill key={id} className="w-10 h-10 mb-10 mr-6" />
                 ))}
               </div>
             ))}

@@ -1,7 +1,7 @@
 export const PROJECTS = [
   {
     category: 'Frontend',
-    projects: [
+    entities: [
       {
         name: 'Portfolio Website',
         github: 'https://github.com/AhmedElaguab/portfolio-site',
