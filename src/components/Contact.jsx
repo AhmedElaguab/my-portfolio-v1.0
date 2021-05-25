@@ -1,3 +1,5 @@
+import { SocialMediaLinks } from './SocialMediaLinks';
+
 export const Contact = () => {
   return (
     <section className="container">
@@ -24,6 +26,7 @@ export const Contact = () => {
             if you're interested in knowing more about me or just have a good
             joke.
           </p>
+          <SocialMediaLinks />
         </div>
       </div>
     </section>
