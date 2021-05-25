@@ -1,6 +1,0 @@
-0000000000000000000000000000000000000000 42094c9e084590e3216e898be1d1e841cb125057 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621616098 +0100	branch: Created from HEAD
-42094c9e084590e3216e898be1d1e841cb125057 0275be57ff2dba36e11c23272d55b044920cdfd1 Ahmed Elaguab <elaguabahmed97@gmail.com> 1621617054 +0100	commit: Add about section component
-0275be57ff2dba36e11c23272d55b044920cdfd1 5455fb4827646066ff1718429959bfac1afcca2b Ahmed Elaguab <elaguabahmed97@gmail.com> 1621617119 +0100	commit: Add about page
-5455fb4827646066ff1718429959bfac1afcca2b 68a00b8af019b15695a9048cfb594562a7d3517b Ahmed Elaguab <elaguabahmed97@gmail.com> 1621617208 +0100	commit: Add react-router links
-68a00b8af019b15695a9048cfb594562a7d3517b fe920c0390b8cdbf258a8f4ad0d102977da2ee5d Ahmed Elaguab <elaguabahmed97@gmail.com> 1621617314 +0100	commit: Split header brand to its component
-fe920c0390b8cdbf258a8f4ad0d102977da2ee5d acc33e881822c6beee5cdae7d1e5530eb81ded5f Ahmed Elaguab <elaguabahmed97@gmail.com> 1621617490 +0100	commit: Fix about section paragraphs width
