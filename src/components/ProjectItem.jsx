@@ -14,7 +14,7 @@ const getProjectLanguageClass = (lang) => {
 export const ProjectItem = ({ project }) => {
   return (
     <div className="lg:w-2/4 lg:px-3">
-      <article className="flex flex-col sm:flex-row sm:h-48 bg-white mb-8 rounded-md shadow-md overflow-hidden">
+      <article className="flex flex-col sm:flex-row sm:h-48 bg-white border mb-8 rounded-md shadow-md overflow-hidden">
         <header className="sm:w-4/12 md:w-5/12">
           <img
             className="flex h-44 sm:h-full w-full object-cover"
