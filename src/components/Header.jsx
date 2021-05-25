@@ -25,7 +25,10 @@ export const Header = () => {
               onClick={handleMenuToggle}
             />
           </div>
-          <Logo />
+          <Logo
+            isMenuActive={isMenuActive}
+            handleMenuToggle={handleMenuToggle}
+          />
           {Overlay}
           <Navbar isMenuActive={isMenuActive}>
             <ul className="p-4 lg:p-2 lg:flex items-center flex-grow">
