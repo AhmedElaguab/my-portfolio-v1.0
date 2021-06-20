@@ -52,4 +52,18 @@ export const PROJECTS = [
       },
     ],
   },
+  {
+    category: 'React',
+    entities: [
+      {
+        name: 'Stats Preview Card Component',
+        github: 'https://github.com/AhmedElaguab/stats-preview-card-component',
+        preview: 'https://ae-stats-preview-card-component.vercel.app/',
+        desc: 'A stats preview card component for react.',
+        language: 'React',
+        screenshot:
+          'https://raw.githubusercontent.com/AhmedElaguab/stats-preview-card-component/main/design/desktop-preview.jpg',
+      },
+    ],
+  },
 ];
